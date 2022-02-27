@@ -6,8 +6,6 @@
 
 # Highest Holywood Grossing Movies
 
-Informações do Dataset
-Objetivo
 Tenho como objetivo treinar mais a linguagem Python e suas bibliotecas para a análise de dados.
 
 Dicionário do dataset
